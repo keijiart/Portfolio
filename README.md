@@ -1,5 +1,7 @@
 # Portfolio
 
+[Life Expectancy and GDP](https://github.com/keijiart/Life_Expectancy_GDP):
+
 [Titanic Survivors](https://github.com/keijiart/Titanic_Survivors): Exploratory Data Analysis and Prediction Model
 
 [Airline Analysis](https://github.com/keijiart/Airline_Analysis): Exploratory Data Analysis and Data Distribution
