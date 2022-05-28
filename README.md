@@ -1,3 +1,5 @@
 # Portfolio
 
-EDA Titanic: Exploratory Data Analysis and Machine Learning
+[EDA Titanic](https://github.com/keijiart/EDA_Titanic): Exploratory Data Analysis and Machine Learning
+
+
