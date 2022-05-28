@@ -1,6 +1,6 @@
 # Portfolio
 
-[Titanic Survivors](https://github.com/keijiart/EDA_Titanic): Exploratory Data Analysis and Prediction Model
+[Titanic Survivors](https://github.com/keijiart/Titanic_Survivors): Exploratory Data Analysis and Prediction Model
 
 [Airline Analysis](https://github.com/keijiart/Airline_Analysis): Exploratory Data Analysis and Data Distribution
 
